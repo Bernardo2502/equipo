@@ -1,0 +1,26 @@
+﻿=== INFORMACION DEL SISTEMA ===
+Nombre del equipo      : DESKTOP-0TASOJC
+Sistema operativo      : Microsoft Windows 11 Pro (Version 10.0.26100)
+Usuario en sesion      : Bernardo
+
+=== INFORMACION DE RED ===
+Interfaz             : Radmin VPN
+  Direccion IPv4     : 26.253.158.153
+  Mascara de subred  : 255.0.0.0
+  Puerta de enlace   : 26.0.0.1
+------------------------------------
+Interfaz             : Wi-Fi
+  Direccion IPv4     : 192.168.168.48
+  Mascara de subred  : 255.255.255.0
+  Puerta de enlace   : 192.168.168.1
+------------------------------------
+Interfaz             : Conexión de red Bluetooth
+  Direccion IPv4     : 169.254.242.57
+  Mascara de subred  : 255.255.0.0
+  Puerta de enlace   : 
+------------------------------------
+Interfaz             : Cabo_Ethernet
+  Direccion IPv4     : 192.168.1.76
+  Mascara de subred  : 255.255.255.0
+  Puerta de enlace   : 192.168.1.1
+------------------------------------
